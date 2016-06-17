@@ -2,15 +2,8 @@
 
 An npm package to manage Adobe Imagege Editor dependecies.
 
+[Adobe SDK documentation](https://creativesdk.adobe.com/docs/web/#/index.html)
+
 ## Installation
 
-`npm install --save-dev adobe-editorjs`
-
-## Usage
-
-
-
-```
-
-
-```
+`npm install --save adobe-editorjs`
