@@ -1,8 +1,8 @@
 {
-  "name": "adobe-editor",
+  "name": "adobe-editorja",
   "version": "0.0.1",
-  "description": "An js wrapper for Aviary SDK (Adobe Creative SDK)",
-  "main": "adobe-editor.min.js",
+  "description": "An js wrapper for Adobe Image Editor SDK (Adobe Creative SDK)",
+  "main": "adobe-editorjs.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
