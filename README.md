@@ -1,6 +1,6 @@
 # adobe-editorjs
 
-A npm package to manage Adobe Imagege Editor dependecies.
+A npm package to manage Adobe Image Editor dependecies.
 
 [Adobe SDK documentation](https://creativesdk.adobe.com/docs/web/#/index.html)
 
