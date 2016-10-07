@@ -5,7 +5,7 @@
   "main": "adobe-editorjs.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Earthlandto/adobe-editorjs.git"
+    "url": "https://github.com/Neuromobile/adobe-editorjs.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +16,10 @@
     "v3",
     "editor"
   ],
-  "author": "earthlandto",
-  "license": "ISC"
+  "author": "Alberto López Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neuromobile/adobe-editorjs/issues"
+  },
+  "homepage": "https://github.com/Neuromobile/adobe-editorjs#readme"
 }
