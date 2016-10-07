@@ -1,6 +1,6 @@
 {
   "name": "adobe-editorjs",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "A js wrapper for Adobe Image Editor SDK (Adobe Creative SDK)",
   "main": "adobe-editorjs.min.js",
   "repository": {
